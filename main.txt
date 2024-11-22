@@ -1,5 +1,0 @@
-A가 main 작업함
-B가 main 작업함.
-C가 main 작업함.
-A가 main 작업함.
-B가 작업
